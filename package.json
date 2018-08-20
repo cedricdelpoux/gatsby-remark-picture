@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-picture",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transform images to responsives pictures",
   "repository": "https://github.com/xuopled/gatsby-remark-picture",
   "author": "Cédric Delpoux",
